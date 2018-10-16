@@ -1,6 +1,11 @@
-# Block Compression
+# TeTris
 ## Introduction
-The block compression project includes the code to test the accuracy and speedup for block-wise pruning with/without reordering algorithm.
+This project includes the source code of NIPS 2018 paper:
+
+**TETRIS: TilE-matching the TRemendous Irregular Sparsity**
+
+Please cite this paper if you use the code.
+
 
 ## Documentation
 
