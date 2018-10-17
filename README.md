@@ -1,4 +1,4 @@
-# TeTris
+# Tetris
 ## Introduction
 This project includes the source code of NIPS 2018 paper:
 
