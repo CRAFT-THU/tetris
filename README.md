@@ -2,16 +2,16 @@
 ## Introduction
 This project includes the source code of NIPS 2018 paper:
 
-  @incollection{NIPS2018_7666,
-    title = {TETRIS: TilE-matching the TRemendous Irregular Sparsity},
-    author = {Ji, Yu and Liang, Ling and Deng, Lei and Zhang, Youyang and Zhang, Youhui and Xie, Yuan},
-    booktitle = {Advances in Neural Information Processing Systems 31},
-    editor = {S. Bengio and H. Wallach and H. Larochelle and K. Grauman and N. Cesa-Bianchi and R. Garnett},
-    pages = {4119--4129},
-    year = {2018},
-    publisher = {Curran Associates, Inc.},
-    url = {http://papers.nips.cc/paper/7666-tetris-tile-matching-the-tremendous-irregular-sparsity.pdf}
-  }
+    @incollection{NIPS2018_7666,
+      title = {TETRIS: TilE-matching the TRemendous Irregular Sparsity},
+      author = {Ji, Yu and Liang, Ling and Deng, Lei and Zhang, Youyang and Zhang, Youhui and Xie, Yuan},
+      booktitle = {Advances in Neural Information Processing Systems 31},
+      editor = {S. Bengio and H. Wallach and H. Larochelle and K. Grauman and N. Cesa-Bianchi and R. Garnett},
+      pages = {4119--4129},
+      year = {2018},
+      publisher = {Curran Associates, Inc.},
+      url = {http://papers.nips.cc/paper/7666-tetris-tile-matching-the-tremendous-irregular-sparsity.pdf}
+    }
 
 
 Please cite this paper if you use the code.
