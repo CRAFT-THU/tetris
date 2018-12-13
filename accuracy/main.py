@@ -149,11 +149,10 @@ def train(train_loader, model, criterion, optimizer, epoch):
         top5.update(prec5[0], x.size(0))
         
         # accumulate multiple iter for one batch
-        if i % args.batch_iter == 0:
-            optimizer.zero_grad()
         loss.backward()
         if i % args.batch_iter == 0:
             optimizer.step()
+            optimizer.zero_grad()
 
         batch_time.update(time.time() - end)
         end = time.time()
